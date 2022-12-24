@@ -1,0 +1,25 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kazuoooo/primeiro_projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kazuoooo/primeiro_projeto/issues"
+  },
+  "homepage": "https://github.com/Kazuoooo/primeiro_projeto#readme",
+  "dependencies": {
+    "next": "^13.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
